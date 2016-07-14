@@ -1,0 +1,5 @@
+#+title: The Game: Rogue-Like 2d game inspired by Alien: Isolation
+
+This is an attempt to learn the Rust programming language, by developing a 2d Rogue-like game over time.
+
+I will try and define the concept within the ./docs when the concept stage is complete.
