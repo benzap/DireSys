@@ -1,5 +1,44 @@
-#+title: The Game: Rogue-Like 2d game inspired by Alien: Isolation
+Goal: Make it out of the spaceship
 
-This is an attempt to learn the Rust programming language, by developing a 2d Rogue-like game over time.
+Features:
 
-I will try and define the concept within the ./docs when the concept stage is complete.
+* Roguelikelike
+* Tile engine
+* Fixed maps (3 maps)
+** Arcade mode?
+
+Art:
+
+* 160 x 144 resolution
+* 2-bit / 4 colours
+* 4-channel audio -- 4-bit PCM @ 8126?Hz (bsfx?)
+
+Controls:
+
+* Button 1: Run (held) / Action
+* Button 2: Use item
+* Start: Motion Sensor / Menu
+* Select: Switch item
+
+Gameplay:
+
+* Pixel-perfect movement
+* Top-down
+* Field of view
+* Fog of war
+* Sounds play important role (stereo?)
+** Left/Right, Loud/Quiet
+
+* Hiding
+** Tables
+** Closets
+** Vents
+** Line-of-sight
+** Light level?
+
+Monster(s):
+
+* Primary: Alien / Stalker
+* Secondary:
+** Androids
+** Alarm systems / Sound generators
